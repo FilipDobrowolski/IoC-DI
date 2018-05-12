@@ -1,0 +1,11 @@
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\bin\Debug\netcoreapp2.0\WebAppIoC.deps.json
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\bin\Debug\netcoreapp2.0\WebAppIoC.runtimeconfig.json
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\bin\Debug\netcoreapp2.0\WebAppIoC.runtimeconfig.dev.json
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\bin\Debug\netcoreapp2.0\WebAppIoC.dll
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\bin\Debug\netcoreapp2.0\WebAppIoC.pdb
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\obj\Debug\netcoreapp2.0\WebAppIoC.csprojAssemblyReference.cache
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\obj\Debug\netcoreapp2.0\WebAppIoC.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\obj\Debug\netcoreapp2.0\WebAppIoC.AssemblyInfoInputs.cache
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\obj\Debug\netcoreapp2.0\WebAppIoC.AssemblyInfo.cs
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\obj\Debug\netcoreapp2.0\WebAppIoC.dll
+C:\Users\Filip\Kody\IoC-DI\WebAppIoC\WebAppIoC\obj\Debug\netcoreapp2.0\WebAppIoC.pdb
